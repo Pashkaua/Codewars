@@ -14,3 +14,4 @@ function sortArray(arr1, arr2) {
   //console.log(arr3);
 }
 sortArray(a, b);
+//test
